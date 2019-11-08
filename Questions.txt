@@ -1,0 +1,6 @@
+what is difference in HI 1,2,3?
+we are dealing with CDR's that are already available at our client server(PTCL) right??
+read about CDR's there are enough details about call records. my question is can we say all records related to telecommunication are CDR's with different name in parameters?
+we have already enough information related to cdr's!!
+we explained our understandings in last two sessions with you is that was enough to understand for what we are going to develop?
+we have to deal with Teradata for HI2 module ??
